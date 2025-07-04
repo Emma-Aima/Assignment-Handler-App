@@ -13,6 +13,9 @@ A comprehensive mobile application designed to help busy parents support their c
 
 💰 Monetization: - Pay-per-use (KES 5–10 per question) - Monthly family subscription - Partner with schools or edtechs
 
+## MGX: Link for the story board of a promotional video on all social media platforms for the Assignment Handler Application 
+https://mgx-5qnn5wfhcem.mgx.world
+
 ## 📱 App Overview
 
 Assignment Handler is a production-ready homework assistance app that bridges the gap between busy parents and their children's educational needs. The app provides instant, child-friendly explanations for homework questions through both photo capture and text input, supporting multiple languages and offering flexible payment options.
